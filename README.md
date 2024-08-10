@@ -23,9 +23,9 @@ I'm a Software Development Engineer (Backend) with a strong focus on building sc
 
 ## 🌱 What I'm Learning
 
-- Advanced distributed systems
-- Kubernetes for container orchestration
-- Deep diving into Elasticsearch for better search optimization
+- Advanced distributed systems. 
+- LLD & HLD.
+- Deep diving into AI.
 
 ---
 
@@ -47,7 +47,7 @@ I'm a Software Development Engineer (Backend) with a strong focus on building sc
 
 ## 💼 Open to Opportunities
 
-I'm always open to exploring new opportunities, especially those involving Python, FastAPI, and scalable backend systems. Feel free to reach out if you have an exciting role or project!
+I'm always open to exploring new opportunities, especially those involving Python, Django, FastAPI, and scalable backend systems. Feel free to reach out if you have an exciting role or project!
 
 ---
 
