@@ -53,8 +53,7 @@ I'm always open to exploring new opportunities, especially those involving Pytho
 
 ## 📄 Download My Resume
 
-You can [download my resume here](https://drive.google.com/file/d/1TxO3sEqxx11C6w8_WcUU8PeVAqvPKZfE/view?usp=sharing).
-
+You can <a href="https://drive.google.com/file/d/1TxO3sEqxx11C6w8_WcUU8PeVAqvPKZfE/view?usp=sharing" target="_blank">download my resume here</a>.
 ---
 
 
