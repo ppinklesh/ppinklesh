@@ -57,11 +57,12 @@ You can [download my resume here](https://github.com/ppinklesh/your-repository/r
 
 ---
 
-## 🌐 My GitHub Stats
 
-![Pinklesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppinklesh&show_icons=true&theme=dark)
+<!-- ## 🌐 My GitHub Stats -->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ppinklesh&layout=compact&theme=dark)
+<!--![Pinklesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppinklesh&show_icons=true&theme=dark)-->
+
+<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ppinklesh&layout=compact&theme=dark)-->
 
 ---
 
