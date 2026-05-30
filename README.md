@@ -7,7 +7,7 @@
 [![Open to Work](https://img.shields.io/badge/Open_to_Work-Backend_Roles-22C55E?style=for-the-badge)](mailto:ppinklesh@gmail.com) [![Freelance](https://img.shields.io/badge/Available-Freelance-E040FB?style=for-the-badge)](mailto:ppinklesh@gmail.com) [![Hiring](https://img.shields.io/badge/Available-For_Hiring-FF6F00?style=for-the-badge)](mailto:ppinklesh@gmail.com)
 [![Experience](https://img.shields.io/badge/Experience-5%2B_Years-2563EB?style=for-the-badge)]() [![Location](https://img.shields.io/badge/Location-Gurgaon_India-F59E0B?style=for-the-badge)]() ![Remote](https://img.shields.io/badge/Remote-Friendly-06B6D4?style=for-the-badge)
 
-[![Resume](https://img.shields.io/badge/Resume-Download_PDF-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1TxO3sEqxx11C6w8_WcUU8PeVAqvPKZfE/view?usp=sharing) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pinklesh/) [![GitHub](https://img.shields.io/badge/GitHub-ppinklesh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ppinklesh)
+[![Resume](https://img.shields.io/badge/Resume-Download_PDF-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1OBu127M3MeyK_TcGzxeXgbPpD7WxVaN_/view?usp=drivesdk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pinklesh/) [![GitHub](https://img.shields.io/badge/GitHub-ppinklesh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ppinklesh)
 
 📞 **+91-8882339089** · 📧 **[ppinklesh@gmail.com](mailto:ppinklesh@gmail.com)**
 </div>
@@ -172,7 +172,7 @@
 
 <div align="center">
 
-[![Email Me](https://img.shields.io/badge/Email-ppinklesh@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ppinklesh@gmail.com) [![Call](https://img.shields.io/badge/Phone-%2B91--8882339089-22C55E?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918882339089) [![Resume](https://img.shields.io/badge/Resume-Download_PDF-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1TxO3sEqxx11C6w8_WcUU8PeVAqvPKZfE/view?usp=sharing)
+[![Email Me](https://img.shields.io/badge/Email-ppinklesh@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ppinklesh@gmail.com) [![Call](https://img.shields.io/badge/Phone-%2B91--8882339089-22C55E?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918882339089) [![Resume](https://img.shields.io/badge/Resume-Download_PDF-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1OBu127M3MeyK_TcGzxeXgbPpD7WxVaN_/view?usp=drivesdk)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:667eea&height=80&section=footer" alt="footer" />
 
