@@ -9,7 +9,7 @@
 
 [![Resume](https://img.shields.io/badge/Resume-Download_PDF-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1OBu127M3MeyK_TcGzxeXgbPpD7WxVaN_/view?usp=drivesdk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pinklesh/) [![GitHub](https://img.shields.io/badge/GitHub-ppinklesh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ppinklesh)
 
-📞 **+91-8882339089** · 📧 **[ppinklesh@gmail.com](mailto:ppinklesh@gmail.com)**
+📞 **+91-8882339089** · 📧 **[ppinklesh@gmail.com](mailto:ppinklesh@gmail.com)** . **https://ppinklesh.github.io**
 </div>
 
 ---
